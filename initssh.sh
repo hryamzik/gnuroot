@@ -1,2 +1,2 @@
 apt-get update
-apt-get intall dropbear
+apt-get install dropbear
